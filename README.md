@@ -2,24 +2,6 @@
 
 
 ###### 26 y.o. Developer/Designer from Belarus, currently living in Saint-Petersburg
-:globe_with_meridians:  [Website](https://holov.in) • [linked.in](https://linkedin.com/in/holovin) • [habr carrer](https://career.habr.com/holovin) • [CV in russian](https://holovin.notion.site/)
+:globe_with_meridians:   [Website](https://holov.in) • [Linked.in](https://linkedin.com/in/holovin) • [Habr.Carrer](https://career.habr.com/holovin) • [CV in russian](https://holovin.notion.site/)
 
-:computer:  [Code/Projects](PROJECTS.md) • [Design portfolio](https://holovin.notion.site/51f2717c04504117b54868785347ae22)
-
-<!--
-## Code
-
-## Design
-**Holovin/Holovin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computer:   [Code/Projects](PROJECTS.md) • [Design portfolio](https://holovin.notion.site/51f2717c04504117b54868785347ae22)
