@@ -1,6 +1,15 @@
-### Hi there 👋
+# Hey, I'm Alex Holovin :belarus:
+
+
+###### 26 y.o. Developer/Designer from Belarus, currently living in Saint-Petersburg
+:globe_with_meridians:  [Website](https://holov.in) • [linked.in](https://linkedin.com/in/holovin) • [habr carrer](https://career.habr.com/holovin) • [CV in russian](https://holovin.notion.site/)
+
+:computer:  [Code/Projects](PROJECTS.md) • [Design portfolio](https://holovin.notion.site/51f2717c04504117b54868785347ae22)
 
 <!--
+## Code
+
+## Design
 **Holovin/Holovin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
