@@ -1,4 +1,4 @@
-# Hey, I'm Alex Holovin :belarus:
+# Hey, I'm Alex :belarus:
 
 
 ###### 26 y.o. Developer/Designer from Belarus, currently living in Saint-Petersburg
