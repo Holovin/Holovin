@@ -1,6 +1,18 @@
 # Repositories
 
 ## Userscripts & Userstyles
+### [RaindropIO](https://github.com/Holovin/raindrop-io-ujs) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Date](https://img.shields.io/badge/date-2021-fff?style=plastic)
+
+UserJS script for raindrop.io.
+
+ 
+<!-- -->
+### [VK Performance Fixes](https://github.com/Holovin/vk_performance_fixes) ![Code language](https://img.shields.io/badge/code-css-563d7c?style=plastic) ![Date](https://img.shields.io/badge/date-2021-fff?style=plastic)
+
+Remove useless elements at VK.com.
+
+ 
+<!-- -->
 ### [NotionCSSFixes](https://github.com/Holovin/notion_css_fixes) ![Code language](https://img.shields.io/badge/code-css-563d7c?style=plastic) ![Date](https://img.shields.io/badge/date-2019-fff?style=plastic)
 
 Some design improvements for notion.so.
@@ -33,14 +45,19 @@ IDEA plugin for sorting bookmarks alphabetically.
 
  
 <!-- -->
+### [VK-Copy-Wall-To-Music](https://github.com/Holovin/vk_cp_wall_to_music/) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Platform](https://img.shields.io/badge/platform-node-green?style=plastic) ![Date](https://img.shields.io/badge/date-2019-fff?style=plastic)
 
+Add music from someone wall to yours audio at VK.com.
+
+ 
+<!-- -->
 ### [PupilStand](https://github.com/Holovin/pupil_stand) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Code language](https://img.shields.io/badge/code-reactjs-61dafb?style=plastic) ![Date](https://img.shields.io/badge/date-2019-fff?style=plastic)
 
 Helper tools for pupil-capture tracker.
 
  
 <!-- -->
-### QOOSB ![Code language](https://img.shields.io/badge/code-node+typescript-2b7489?style=plastic) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Date](https://img.shields.io/badge/date-2018-fff?style=plastic)
+### QOOSB ![Code language](https://img.shields.io/badge/code-typescript-2b7489?style=plastic) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Platform](https://img.shields.io/badge/platform-node-green?style=plastic) ![Date](https://img.shields.io/badge/date-2018-fff?style=plastic)
 
 ###### Parts: [client](https://github.com/Holovin/qoosb_lp) + [shared-lib](https://github.com/Holovin/qoosb_shared) + [browser extension](https://github.com/Holovin/qoosb_bro/tree/dev)
 
@@ -48,13 +65,13 @@ Fake client & browser extension for track questions & search answers in Clever g
 
  
 <!-- -->
-### [SkypeBroadcaster](https://github.com/Holovin/_sk_broadcaster) ![Code language](https://img.shields.io/badge/code-node+typescript-2b7489?style=plastic) ![Date](https://img.shields.io/badge/date-2018-fff?style=plastic)
+### [SkypeBroadcaster](https://github.com/Holovin/_sk_broadcaster) ![Code language](https://img.shields.io/badge/code-typescript-2b7489?style=plastic) ![Platform](https://img.shields.io/badge/platform-node-green?style=plastic) ![Date](https://img.shields.io/badge/date-2018-fff?style=plastic)
 
 Skype bot for mass mailings between my private chats.
 
  
 <!-- -->
-### [HyperUxBot](https://github.com/Holovin/_HyperUxBot/) ![Code language](https://img.shields.io/badge/code-nodejs-green?style=plastic) ![Date](https://img.shields.io/badge/date-2018-fff?style=plastic)
+### [HyperUxBot](https://github.com/Holovin/_HyperUxBot/) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Platform](https://img.shields.io/badge/platform-node-green?style=plastic) ![Date](https://img.shields.io/badge/date-2018-fff?style=plastic)
 
 Telegram bot with some fun and dumb entertaiment functions.
 
