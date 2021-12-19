@@ -1,5 +1,10 @@
 # Repositories
+### [PythonParsersGrab](https://github.com/Holovin/PythonParsersGrab) ![Code language](https://img.shields.io/badge/code-python-blue?style=plastic) ![Date](https://img.shields.io/badge/date-2018−2021-fff?style=plastic)
 
+Wrapper for grab (python framework) with some additional features which allow easy parse almost any static website.
+
+ 
+<!-- -->
 ## Userscripts & Userstyles
 ### [RaindropIO](https://github.com/Holovin/raindrop-io-ujs) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Date](https://img.shields.io/badge/date-2021-fff?style=plastic)
 
@@ -39,9 +44,39 @@ Config for [Karabiner-Elements](https://karabiner-elements.pqrs.org/).
  
 <!-- -->
 ## ...dead projects
+### [VK Spotify Bus](https://github.com/Holovin/dd_vk_spotify_bus) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Platform](https://img.shields.io/badge/platform-node-green?style=plastic) ![Date](https://img.shields.io/badge/date-2020-fff?style=plastic)
+
+Music export from VK.com to Spotify.
+
+ 
+<!-- -->
+### [VK Group Day Autopost](https://github.com/Holovin/vk_group_day_autopost) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Platform](https://img.shields.io/badge/platform-node-green?style=plastic) ![Date](https://img.shields.io/badge/date-2020-fff?style=plastic)
+
+Group autoposter for VK.com.
+
+ 
+<!-- -->
+### [Spac Blog Remover](https://github.com/Holovin/spac_blog_remover) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Platform](https://img.shields.io/badge/platform-node-green?style=plastic) ![Date](https://img.shields.io/badge/date-2020-fff?style=plastic)
+
+Spaces.ru (bulk) blog remover.
+
+ 
+<!-- -->
 ### [IDEA Bookmark Sorter](https://github.com/Holovin/idea_ddd_bookmarks_sorter) ![Code language](https://img.shields.io/badge/code-java-orange?style=plastic) ![Date](https://img.shields.io/badge/date-2020-fff?style=plastic)
 
 IDEA plugin for sorting bookmarks alphabetically.
+
+ 
+<!-- -->
+### [CLI Rsyncer](https://github.com/Holovin/cli_rsyncer) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Platform](https://img.shields.io/badge/platform-node-green?style=plastic) ![Date](https://img.shields.io/badge/date-2020-fff?style=plastic)
+
+Download all files from _remote_ git status output with rsync.
+
+ 
+<!-- -->
+### [VK Mini App Bingo](https://github.com/Holovin/vk_bingo) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Platform](https://img.shields.io/badge/platform-vk−mini−apps-skyblue?style=plastic) ![Date](https://img.shields.io/badge/date-2020-fff?style=plastic)
+
+VK Mini App with Bingo for heisenbug event: https://vk.com/app7490838
 
  
 <!-- -->
@@ -54,6 +89,12 @@ Add music from someone wall to yours audio at VK.com.
 ### [PupilStand](https://github.com/Holovin/pupil_stand) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Code language](https://img.shields.io/badge/code-reactjs-61dafb?style=plastic) ![Date](https://img.shields.io/badge/date-2019-fff?style=plastic)
 
 Helper tools for pupil-capture tracker.
+
+ 
+<!-- -->
+### [Angular Hybrid Demo](https://github.com/Holovin/and_ps_demo1) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Code language](https://img.shields.io/badge/code-angular-d6002f?style=plastic) ![Date](https://img.shields.io/badge/date-2019-fff?style=plastic)
+
+Demo project with: angular 1.6 + 6 (uirouter + angular6 router) + angular material for each angular (1.6 + 6)
 
  
 <!-- -->
