@@ -7,7 +7,33 @@ Some design improvements for notion.so.
 
  
 <!-- -->
+### [Pin7](https://github.com/Holovin/notion_css_fixes) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Date](https://img.shields.io/badge/date-2019-fff?style=plastic)
+
+Highlight good suggestions at pin7.ru.
+
+ 
+<!-- -->
+## Config repos
+### [ConfigBTT](https://github.com/Holovin/config_btt) ![Code language](https://img.shields.io/badge/code-config-gray?style=plastic) ![Date](https://img.shields.io/badge/date-2019-fff?style=plastic)
+
+Config for [BetterTouchTool](https://folivora.ai/).
+
+ 
+<!-- -->
+### [ConfigKarabiner](https://github.com/Holovin/config_karabiner) ![Code language](https://img.shields.io/badge/code-config-gray?style=plastic) ![Date](https://img.shields.io/badge/date-2019-fff?style=plastic)
+
+Config for [Karabiner-Elements](https://karabiner-elements.pqrs.org/).
+
+ 
+<!-- -->
 ## ...dead projects
+### [IDEA Bookmark Sorter](https://github.com/Holovin/idea_ddd_bookmarks_sorter) ![Code language](https://img.shields.io/badge/code-java-orange?style=plastic) ![Date](https://img.shields.io/badge/date-2020-fff?style=plastic)
+
+IDEA plugin for sorting bookmarks alphabetically.
+
+ 
+<!-- -->
+
 ### [PupilStand](https://github.com/Holovin/pupil_stand) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Code language](https://img.shields.io/badge/code-reactjs-61dafb?style=plastic) ![Date](https://img.shields.io/badge/date-2019-fff?style=plastic)
 
 Helper tools for pupil-capture tracker.
