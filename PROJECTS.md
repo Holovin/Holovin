@@ -24,7 +24,7 @@ Some design improvements for notion.so.
 
  
 <!-- -->
-### [Pin7](https://github.com/Holovin/notion_css_fixes) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Date](https://img.shields.io/badge/date-2019-fff?style=plastic)
+### [Pin7](https://github.com/Holovin/userjs_pin7) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Date](https://img.shields.io/badge/date-2019-fff?style=plastic)
 
 Highlight good suggestions at pin7.ru.
 
