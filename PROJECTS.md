@@ -1,5 +1,5 @@
 # Repositories
-### [PythonParsersGrab](https://github.com/Holovin/PythonParsersGrab) ![Code language](https://img.shields.io/badge/code-python-blue?style=plastic) ![Date](https://img.shields.io/badge/date-2018−2021-fff?style=plastic)
+### [PythonParsersGrab](https://github.com/Holovin/PythonParsersGrab) ![Code language](https://img.shields.io/badge/code-python-blue?style=plastic) ![Date](https://img.shields.io/badge/date-2018−2021-fff?style=plastic) ![Status](https://img.shields.io/badge/status-code−support−only-fff?style=plastic)
 
 Wrapper for grab (python framework) with some additional features which allow easy parse almost any static website.
 
