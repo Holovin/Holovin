@@ -1,35 +1,3 @@
-# Repositories
-### [PythonParsersGrab](https://github.com/Holovin/PythonParsersGrab) ![Code language](https://img.shields.io/badge/code-python-blue?style=plastic) ![Date](https://img.shields.io/badge/date-2018−2021-fff?style=plastic) ![Status](https://img.shields.io/badge/status-code−support−only-fff?style=plastic)
-
-Wrapper for grab (python framework) with some additional features which allow easy parse almost any static website.
-
- 
-<!-- -->
-## Userscripts & Userstyles
-### [RaindropIO](https://github.com/Holovin/raindrop-io-ujs) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Date](https://img.shields.io/badge/date-2021-fff?style=plastic)
-
-UserJS script for raindrop.io.
-
- 
-<!-- -->
-### [VK Performance Fixes](https://github.com/Holovin/vk_performance_fixes) ![Code language](https://img.shields.io/badge/code-css-563d7c?style=plastic) ![Date](https://img.shields.io/badge/date-2021-fff?style=plastic)
-
-Remove useless elements at VK.com.
-
- 
-<!-- -->
-### [NotionCSSFixes](https://github.com/Holovin/notion_css_fixes) ![Code language](https://img.shields.io/badge/code-css-563d7c?style=plastic) ![Date](https://img.shields.io/badge/date-2019-fff?style=plastic)
-
-Some design improvements for notion.so.
-
- 
-<!-- -->
-### [Pin7](https://github.com/Holovin/userjs_pin7) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Date](https://img.shields.io/badge/date-2019-fff?style=plastic)
-
-Highlight good suggestions at pin7.ru.
-
- 
-<!-- -->
 ## Config repos
 ### [ConfigBTT](https://github.com/Holovin/config_btt) ![Code language](https://img.shields.io/badge/code-config-gray?style=plastic) ![Date](https://img.shields.io/badge/date-2019-fff?style=plastic)
 
@@ -43,7 +11,37 @@ Config for [Karabiner-Elements](https://karabiner-elements.pqrs.org/).
 
  
 <!-- -->
-## ...dead projects
+### [HA ESPHome Configs](https://github.com/Holovin/homeassistant_esphome_configs) ![Code language](https://img.shields.io/badge/code-config-gray?style=plastic) ![Date](https://img.shields.io/badge/date-2022-fff?style=plastic)
+
+Config for [ESPHome](https://esphome.io/).
+
+ 
+<!-- -->
+## Projects
+### [SQD StreamNotify](https://github.com/Holovin/sqd_streamnotify) ![Code language](https://img.shields.io/badge/code-typescript-blue?style=plastic) ![Date](https://img.shields.io/badge/date-2023-fff?style=plastic)
+
+Telegram bot for notifications from twitch.tv streams.
+
+ 
+<!-- -->
+### [PythonParsersGrab](https://github.com/Holovin/PythonParsersGrab) ![Code language](https://img.shields.io/badge/code-python-blue?style=plastic) ![Date](https://img.shields.io/badge/date-2018−2021-fff?style=plastic) ![Status](https://img.shields.io/badge/status-code−support−only-fff?style=plastic)
+
+Wrapper for grab (python framework) with some additional features which allow easy parse almost any static website.
+
+ 
+<!-- -->
+### [RaindropIO](https://github.com/Holovin/raindrop-io-ujs) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Date](https://img.shields.io/badge/date-2021-fff?style=plastic)
+
+UserJS script for raindrop.io.
+
+ 
+<!-- -->
+### [VK Performance Fixes](https://github.com/Holovin/vk_performance_fixes) ![Code language](https://img.shields.io/badge/code-css-563d7c?style=plastic) ![Date](https://img.shields.io/badge/date-2021-fff?style=plastic)
+
+Remove useless elements at VK.com.
+
+ 
+<!-- -->
 ### [VK Spotify Bus](https://github.com/Holovin/dd_vk_spotify_bus) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Platform](https://img.shields.io/badge/platform-node-green?style=plastic) ![Date](https://img.shields.io/badge/date-2020-fff?style=plastic)
 
 Music export from VK.com to Spotify.
@@ -77,6 +75,18 @@ Download all files from _remote_ git status output with rsync.
 ### [VK Mini App Bingo](https://github.com/Holovin/vk_bingo) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Platform](https://img.shields.io/badge/platform-vk−mini−apps-skyblue?style=plastic) ![Date](https://img.shields.io/badge/date-2020-fff?style=plastic)
 
 VK Mini App with Bingo for heisenbug event: https://vk.com/app7490838
+
+ 
+<!-- -->
+### [NotionCSSFixes](https://github.com/Holovin/notion_css_fixes) ![Code language](https://img.shields.io/badge/code-css-563d7c?style=plastic) ![Date](https://img.shields.io/badge/date-2019-fff?style=plastic)
+
+Some design improvements for notion.so.
+
+ 
+<!-- -->
+### [Pin7](https://github.com/Holovin/userjs_pin7) ![Code language](https://img.shields.io/badge/code-javascript-f1e05a?style=plastic) ![Date](https://img.shields.io/badge/date-2019-fff?style=plastic)
+
+Highlight good suggestions at pin7.ru.
 
  
 <!-- -->
@@ -157,10 +167,7 @@ Handmade PHP framework for training purposes.
 
 
 
-
-
-
-## ...made during the study
+## ...made during the university study
 ### [PythonAST](https://github.com/Holovin/VS_PythonAST/tree/dev) ![Code language](https://img.shields.io/badge/code-python-blue?style=plastic) ![Date](https://img.shields.io/badge/date-2016-fff?style=plastic)
 
 AST parser, lexer, interpreter for C-like language.
